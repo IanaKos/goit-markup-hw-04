@@ -372,6 +372,9 @@ nav {
   column-gap: 24px;
   row-gap: 48px;
 }
+.card-link {
+  display: block;
+}
 .card-item {
   background: #ffffff;
   width: calc((100% - 48px) / 3);
