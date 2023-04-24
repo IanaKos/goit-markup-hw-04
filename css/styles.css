@@ -500,7 +500,7 @@ nav {
   fill: #404bbf;
 }
 .clients-icon {
-  fill: #8e8f99;
+  fill: currentColor;
 }
 .customers {
   padding-top: 120px;
