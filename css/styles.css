@@ -463,10 +463,10 @@ nav {
 .footer-container {
   display: flex;
   align-items: baseline;
-  gap: 120px;
+  margin-right: 120px;
 }
 .footer-logo-container {
-  gap: 120px;
+  margin-right: 120px;
 }
 .footer-social-media {
   background: #2e2f42;
@@ -495,7 +495,6 @@ nav {
   color: var(--light-slate);
   border: 1px solid #8e8f99;
   border-radius: 4px;
-  padding: 16px 32px;
 }
 .clients-link:hover,
 .clients-link:focus {
